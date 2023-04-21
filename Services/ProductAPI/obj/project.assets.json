@@ -6705,11 +6705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\Services\\ProductAPI\\ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\Services\\ProductAPI\\ProductAPI.csproj",
       "projectName": "ProductAPI",
-      "projectPath": "c:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\Services\\ProductAPI\\ProductAPI.csproj",
+      "projectPath": "C:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\Services\\ProductAPI\\ProductAPI.csproj",
       "packagesPath": "C:\\Users\\ciO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\Services\\ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\Services\\ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ciO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6719,6 +6719,7 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
