@@ -9,7 +9,7 @@ using ProductAPI.Repository.Interface;
 namespace ProductAPI.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/products")]
     public class ProductAPIController : ControllerBase
     {
         private readonly IProductRepository _productRepository;
