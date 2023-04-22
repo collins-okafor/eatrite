@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nPRRTL0bDTH1+dzyRvLYIMcLfomqFSYvECa0EXfpkV5Bntx/jKJe50AzdnApbnELgoaKdRMk3yb7bQtYrwhESA==",
+  "dgSpecHash": "ZnlLoU0/rSc7xQ0Iqgc26aEjq4YZY9wr1i36Oft6DwTBcGWFF7F+RyIRPtXMr3WoRZ/P8tKgWqxXs1pnm6mJVQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ciO\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ciO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

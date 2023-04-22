@@ -6765,11 +6765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\FrontEnd.csproj",
+      "projectUniqueName": "C:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\FrontEnd.csproj",
       "projectName": "FrontEnd",
-      "projectPath": "c:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\FrontEnd.csproj",
+      "projectPath": "C:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\FrontEnd.csproj",
       "packagesPath": "C:\\Users\\ciO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\obj\\",
+      "outputPath": "C:\\Users\\ciO\\Desktop\\Dotnet\\eatrite\\FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ciO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6779,6 +6779,7 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
